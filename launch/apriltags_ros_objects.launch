@@ -27,9 +27,9 @@
 
     <!-- Tags to detect -->
     <rosparam param="tag_descriptions">[
-      {id: 6, size: 0.163513, frame_id: mastering_ros},
-      {id: 1, size: 0.163513, frame_id: laptop},
-      {id: 7, size: 0.163513, frame_id: smartphone},
+      {id: 6, size: 0.035, frame_id: mastering_ros},
+      {id: 1, size: 0.035, frame_id: laptop},
+      {id: 7, size: 0.035, frame_id: smartphone}
       ]
     </rosparam>
 
