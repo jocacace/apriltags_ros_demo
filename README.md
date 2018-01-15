@@ -31,7 +31,7 @@ or
 ```catkin_make -DCATCKIN_WHITELIST_PACKAGES="apriltags_ros_demo"```
 
 #### **Dependencies** 
-This package depends...
+This package depends from [apriltags_ros](https://github.com/RIVeR-Lab/apriltags_ros)
 
 ### **Get this book** (in pre-order)
 - [Packt Publishing](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) 
